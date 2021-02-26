@@ -25,7 +25,11 @@ Voici ce que je vous conseille sur une nouvelle installation de windows. Ce sont
  - [**Mode de gestion d'alimentation**](#mode-de-gestion-dalimentation)
  - [**Réactivation des drivers automatiques**](#réactivation-des-drivers-automatiques)
  
- 
+## Montage PC
+
+Pour s'avoir comment assembler un PC tu peux regader la playlist de TopAchat pour voir selon le composants comment le monter : https://www.youtube.com/watch?v=UL-Zrtk7ChU&list=PL4gCLcJ-OWrAoRkK36cLcitKubsEyoTDf et/ou regarder une vidéo de entière faite par LDLC : https://www.youtube.com/watch?v=85Kr3L1QJ2g
+
+
 ## Installation de Windows
 
 **Note:** Je recommande de réinstaller Windows, afin de repartir sur une base saine. Qui sait ce que vous avez installé sur votre PC, quels tweaks (utiles ou non) vous avez pu installer, quels logiciels inutiles ou virus vous pouvez avoir sur votre PC, etc etc. Réinstaller complètement Windows permettra de repartir complètement d'une base saine, et d'assurer des performances et une compatibilité maximale.
