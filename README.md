@@ -1,5 +1,5 @@
 
-# Optimiser son PC
+# Optimiser son PC VSAFE
 Il existe énormément de tweaks, optimisations, tutoriels, scripts et logiciels sur internet qui vont vous promettre de doubler vos FPS, réduire votre latence, stabiliser vos FPS. La majorité de ces tweaks sont faux, plus à jour, n'améliorent rien, voire même d'endommager votre PC.
 
 Les tweaks que je vais détailler ici vont garantir un pc optimiser, sans danger pour le PC, et avec tout qui fonctionnera.
