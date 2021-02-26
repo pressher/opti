@@ -28,8 +28,10 @@ Voici ce que je vous conseille sur une nouvelle installation de windows. Ce sont
 ## Montage PC
 
 Pour s'avoir comment assembler un PC tu peux regader la playlist de TopAchat pour voir selon le composants comment le monter :
+
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [`[TUTO] Installer Windows 10 & Tes Drivers - TopAchat [FR]`](https://www.youtube.com/watch?v=UL-Zrtk7ChU&list=PL4gCLcJ-OWrAoRkK36cLcitKubsEyoTDf) 
 et/ou regarder une vidéo de entière faite par LDLC :
+
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) [`[TUTO] Installer Windows 10 & Tes Drivers - TopAchat [FR]`](https://www.youtube.com/watch?v=85Kr3L1QJ2g
 )
 
